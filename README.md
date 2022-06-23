@@ -1,3 +1,4 @@
+![example workflow](https://github.com/kuzdmv/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # api_yamdb 
 # Проект YaMDb
 ## Описание
@@ -38,5 +39,3 @@ https://github.com/haus2100
 https://github.com/kuzdmv
 - Лев Белов - автор третий части.
 https://github.com/WhiteLev
-
-![example workflow](https://github.com/kuzdmv/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
