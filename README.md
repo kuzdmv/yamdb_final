@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 python3 manage.py runserver
 ```
-### Документация проекта доступна по адресу:
+- Документация проекта доступна по адресу:
 ```
 http://localhost/redoc/
 ```
@@ -42,5 +42,6 @@ https://github.com/WhiteLev
 
 ### Развернутый проект будет доступен по ссылке:
 ```
-http://<ip_сервера>/
+http://62.84.121.38/
+http://62.84.121.38/admin/
 ```
