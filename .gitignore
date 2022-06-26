@@ -146,8 +146,7 @@ dmypy.json
 .mypy_cache
 
 # папки со статикой и медиа
-api_yamdb/static/
 posts/static/
 media/
-!api_yamdb/static/redoc.yaml
+!*/api_yamdb/static/redoc.yaml
 
