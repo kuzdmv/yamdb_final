@@ -44,4 +44,5 @@ https://github.com/WhiteLev
 ```
 http://62.84.121.38/
 http://62.84.121.38/admin/
+http://62.84.121.38/redoc/
 ```
