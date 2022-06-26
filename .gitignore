@@ -149,4 +149,5 @@ dmypy.json
 api_yamdb/static/
 posts/static/
 media/
+!redoc.yaml
 
